@@ -1,0 +1,19 @@
+@media only screen and (max-width:600px){
+
+.navbar li {
+  display:block;
+  text-align: center;
+}
+
+#triagle {
+  width:50%;
+}
+
+#logo {
+  width:50%;
+}
+
+#tagline  {
+  font-size: 12pt;
+}
+}
